@@ -1,0 +1,21 @@
+{
+  "name": "com.robertcorponoi.2d-player-movement",
+  "version": "0.1.0",
+  "displayName": "2D Player Movement",
+  "unity": "2019.1",
+  "keywords": [
+    "2d",
+    "player",
+    "movement",
+    "move",
+    "animation",
+    "jump",
+    "run",
+    "walk"
+  ],
+  "author": {
+    "name": "Robert Corponoi",
+    "email": "robertcorponoi@gmail.com",
+    "url": "https://github.com/robertcorponoi"
+  }
+}
