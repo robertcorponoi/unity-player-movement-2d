@@ -2,8 +2,6 @@
 
 <p align="center">A quick and simple way to get started with creating a 2D player character.<p>
 
-This package provides you with an easy way to add player movement to your 2D game.
-
 ## **Structure**
 
 The following assets are available as part of the package:
@@ -63,3 +61,7 @@ The following properties of the script can be adjusted in the inspector:
 - **Ground Layer**: A reference to the layer that is applied to all game objects that represent the ground.
 
 - **Jump Height:** The amount of force behind the player's jump. There's not really any metric with this just play around until you find a jump height that works best for you.
+
+## **License**
+
+MIT
